@@ -1,0 +1,5 @@
+projectKey=hypnos-project
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/hypnos-project
+ceTaskId=AVrKBJFYs0ESUaA_M6HU
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVrKBJFYs0ESUaA_M6HU
